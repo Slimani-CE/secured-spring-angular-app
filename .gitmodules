@@ -1,0 +1,9 @@
+[submodule "ebank-service-secured"]
+	path = ebank-service-secured
+	url = https://github.com/Slimani-CE/ebank-service-secured
+[submodule "wallet-front-angular-secured"]
+	path = wallet-front-angular-secured
+	url = https://github.com/Slimani-CE/wallet-front-angular-secured
+[submodule "wallet-service-secured"]
+	path = wallet-service-secured
+	url = https://github.com/Slimani-CE/wallet-service-secured
