@@ -28,6 +28,14 @@ This repository contains a simple application that demonstrates how to secure a 
 ![users](assets/user%20creation.png)
 **Assigning `ADMIN` and `USER` roles to a user:**
 ![user-roles](assets/role%20assignment.png)
+5. Test Keycloak configuration with Postman:
+**Get access token with username and password:**
+![get-access-token](assets/test%20auth%20with%20password.png)
+**Authenticate with access token:**
+![authenticate](assets/authentiacte%20with%20access%20toekn.png)
+**Accessing with credentials:**
+![configuration](assets/config%20keycloak%20to%20access%20with%20secret.png)
+![accessing](assets/accessing%20with%20credentials.png)
 
 ## 🚀 Code Snippets
 ### 📁 Securing ebank-service
