@@ -29,6 +29,7 @@ This repository contains a simple application that demonstrates how to secure a 
 **Assigning `ADMIN` and `USER` roles to a user:**
 ![user-roles](assets/role%20assignment.png)
 5. Test Keycloak configuration with Postman:
+
 **Get access token with username and password:**
 ![get-access-token](assets/test%20auth%20with%20password.png)
 **Authenticate with access token:**
