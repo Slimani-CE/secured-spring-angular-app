@@ -285,4 +285,4 @@ export class AuthGuard extends KeycloakAuthGuard {
 ![wallets](assets/wallets.png)
 
 3. Make transactions
-![transactions](assets/make transaction.png)
+![transactions](assets/make%20transaction.png)
